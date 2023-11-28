@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @arun2201
-- 👀 I’m interested in software and digital design
-- 🌱 I’m currently learning digital electronics and Java
+- 👀 I’m interested in building for a change
 - 💞️ I’m looking to collaborate on product development
 - 📫 How to reach me f20190664@goa.bits-pilani.ac.in
 
