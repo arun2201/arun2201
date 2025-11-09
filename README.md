@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @arun2201
-- 👀 I’m interested in building for a change
-- 💞️ I’m looking to collaborate on product development
-- 📫 How to reach me f20190664@goa.bits-pilani.ac.in
+- 👋 Hi, I'm Arunaabh, a Software Engineer having experience in backend and data engineering.
+- 👀 I’m interested in building for a change.
+- 📫 Connect with me: www.linkedin.com/in/arunaabh-singh/
 
 <!---
 arun2201/arun2201 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
