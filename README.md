@@ -1,3 +1,3 @@
 - 🌏 Hi, I'm Arunaabh, a Software Engineer with experience in backend and data engineering.
-- 🚀 Building!
+- 🚀 Building in stealth!
 - 📫 Connect with me: www.linkedin.com/in/arunaabh-singh/
